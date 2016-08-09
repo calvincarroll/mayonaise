@@ -1,2 +1,2 @@
 # mayonaise
-#! test repo
+! test repo
